@@ -32,7 +32,7 @@ Installation
 
 For example, to add a new word to the list, simply add it to the words variable like this:
 
-    words = ["Siddhu","newword"]
+    words = ["Siddhu","newword"] 
 
 Similarly, you can add or remove symbols and numbers from the symbols and numbers variables.
 
